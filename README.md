@@ -1,2 +1,4 @@
 # D3STRUCT10N
-A script you can execute in a browser on a friend's or your own computer that makes it look like your browser has been hijacked.
+A basic batch script to fake destroy your friends computer! It's pretty basic and could fool a few people you know. It's a batch file. Convert it to .exe with a batch to exe converter and make it look more realistic.
+
+~tqDev
