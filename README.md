@@ -1,4 +1,2 @@
 # D3STRUCT10N
-A basic batch script to fake destroy your friends computer! It's pretty basic and could fool a few people you know. It's a batch file. Convert it to .exe with a batch to exe converter and make it look more realistic.
-
-~tqDev
+A basic batch script you can run on someone's (or your) computer. It has horrible grammar to look like an 8 year old hacked you, and a special surprise - a RICKROLL YAYYAYAYAY!!!!
